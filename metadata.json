@@ -1,0 +1,8 @@
+{
+  "name": "CivicLens — AI-Powered Civic Intelligence Platform",
+  "description": "AI-powered civic complaint triage, 18-sector municipal routing, live geospatial tracking, and Firebase-backed citizen & department portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
